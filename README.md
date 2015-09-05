@@ -1,1 +1,2 @@
 # data_structures
+This repository holds my own implemenation of common data structures. This project is not meant as a way to make better implementations than existing libraries but as a way for me to reinforce my knowledge of how these data structures work. 
